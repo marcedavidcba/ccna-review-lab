@@ -1,3 +1,4 @@
+<img width="979" height="608" alt="capturehsrp+dhcp" src="https://github.com/user-attachments/assets/39793381-4634-4237-812b-ba52e2756dfb" />
 # ccna-review-lab
 CCNA-REVIEW-LAB
 
